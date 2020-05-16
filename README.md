@@ -2,9 +2,13 @@
 Regeln für das Montagabend-Training
 
 ## Hintergrund:
-Schutzkonzept SJV: https://sjv.ch/02_Service/Reglemente-Formulare/01_Verband-Organisation/01_Reglemente/DE/Covid-19-Schutzkonzept.pdf
+Schutzkonzept SJV: 
 
-Bitte lesen: Judokai-Informationen: https://www.judokai.ch/uploads/3/7/0/2/37020851/information_wiederbeginn.pdf
+https://sjv.ch/02_Service/Reglemente-Formulare/01_Verband-Organisation/01_Reglemente/DE/Covid-19-Schutzkonzept.pdf
+
+Bitte lesen: Judokai-Informationen:
+
+https://www.judokai.ch/uploads/3/7/0/2/37020851/information_wiederbeginn.pdf
 
 ## Massnahmen spezifisch für unser Training
 
@@ -31,7 +35,6 @@ Jede Person muss immer Abstand halten (2m Regel).
 
 
 ### Nach dem Training
-Wir dürfen duschen nach dem Training (weil wir wenige sind). Max. 2 Pers./Garderobe haben.
 Bitte nach dem Trainingsende zügig Dojo verlassen
 Treppe für das Heruntergehen ist angeschrieben
 
