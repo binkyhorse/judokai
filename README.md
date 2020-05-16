@@ -1,4 +1,4 @@
-Regeln für das Montagabend-Training
+# Regeln für das Montagabend-Training
 
 ## Hintergrund:
 Schutzkonzept SJV: 
