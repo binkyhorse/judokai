@@ -47,7 +47,10 @@ Jede Person muss immer Abstand halten (2m Regel)
 
 
 ### Nach dem Training
+Hände und Füsse waschen
+
 Bitte nach dem Trainingsende zügig Dojo verlassen
+
 Treppe für das Heruntergehen ist angeschrieben
 
 ## Weitere Infos:
