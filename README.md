@@ -9,7 +9,7 @@ Bitte lesen: Judokai-Informationen:
 
 https://www.judokai.ch/uploads/3/7/0/2/37020851/information_wiederbeginn.pdf
 
-Merkblass SJV (Trainierende): 
+Merkblatt SJV (Trainierende): 
 
 https://sjv.ch/02_Service/Reglemente-Formulare/01_Verband-Organisation/01_Reglemente/DE/Covid-19-Merkblatt-f%C3%BCr-Trainierende.pdf
 
