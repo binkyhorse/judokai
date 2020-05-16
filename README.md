@@ -1,4 +1,3 @@
-# judokai
 Regeln für das Montagabend-Training
 
 ## Hintergrund:
